@@ -1,6 +1,3 @@
-remote_theme: pages-themes/ cayman@v0.2.0
-plugins
-- jekyll-remote-theme 
 # Labs-2-
 **Основы работы с ESP8266 и макетной платой** 
  
