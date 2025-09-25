@@ -6,7 +6,7 @@
 # ![](images/Pasted image 20250823230436.png)
 
 
-|http://arduino.esp8266.com/stable/package_esp8266com_index.json |
+```http://arduino.esp8266.com/stable/package_esp8266com_index.json ```
 
 
 
