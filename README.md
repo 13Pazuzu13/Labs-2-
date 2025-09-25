@@ -6,7 +6,7 @@
 
 
 |http://arduino.esp8266.com/stable/package_esp8266com_index.json |
-![[Pasted image 20250823230436.png]]t
+(Labs-2-/image 20250823230436.png)
 
 Затем нужно зайти в «**Менеджер плат**«, нажмите «**Инструменты» > «Платы» > «Менеджер плат…»**. ![[Pasted image 20250823230722.png]]
 
